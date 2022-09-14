@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guilherme Cavicchioli
-- 👀 I’m phd student in Applied Ecology at Universidade de São Paulo 
+- 👀 I’m doctoral student in Applied Ecology at Universidade de São Paulo 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 gcavicchioli@gmail.com
